@@ -1,26 +1,23 @@
-Privacy Policy
+Privacy Policy for our Apps
+At our Apps, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by our Apps and how we use it.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+Log Files
+our Apps follows a standard procedure of using log files. These files log visitors when they use app. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the app, tracking users' movement on the app, and gathering demographic information.
+Our Advertising Partners
+Some of advertisers in our app may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+•	Google
+https://policies.google.com/technologies/ads
+Privacy Policies
+You may consult this list to find the Privacy Policy for each of the advertising partners of our Apps.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Beacons that are used in their respective advertisements and links that appear on our Apps. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on this app or other apps or websites.
+Note that our Apps has no access to or control over these cookies that are used by third-party advertisers.
+Third Party Privacy Policies
+our Apps's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+Children's Information
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+our Apps does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our App, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Online Privacy Policy Only
+This Privacy Policy applies only to our online activities and is valid for visitors to our App with regards to the information that they shared and/or collect in our Apps. This policy is not applicable to any information collected offline or via channels other than this app. Our Privacy Policy was created with the help of the App Privacy Policy Generator from App-Privacy-Policy.com
+Consent
+By using our app, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
 
-We take your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
-Collection of Routine Information
-
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
-Cookies
-
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
-Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to opt out of Google’s cookie usage.
-Links to Third Party Websites
-
-We have included links on this app for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-Changes To This Privacy Policy
-
-This Privacy Policy is effective as of 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our app.
-Contact Information
-
-For any questions or concerns regarding the privacy policy, please send us an email to alwaeitech@gmail.com.
