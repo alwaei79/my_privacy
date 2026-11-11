@@ -10,6 +10,8 @@ media accounts of its owner. It is used only by its owner and is not offered to 
 - **YouTube (Google) account:** with the owner's permission, the app uses the YouTube Data API
   to upload videos to the owner's channel and to read the channel name to confirm the correct
   channel is connected.
+- **TikTok account:** with the owner's permission, the app uses the TikTok Content Posting API
+  to send the owner's videos to his own TikTok account (scopes `user.info.basic`, `video.upload`).
 - **Video files and subtitles** created by the owner from his own published videos.
 
 ## How data is used and stored

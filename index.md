@@ -12,11 +12,14 @@ Shorts Agent is a personal automation tool used by the owner of the YouTube chan
 The tool runs only on the owner's computer and is used only with the owner's own accounts.
 It is not offered to other users.
 
-## Google / YouTube data
+## Platform data
 
-The tool uses the YouTube Data API only to upload videos to the owner's channel
-(scope `youtube.upload`) and to read the channel name (scope `youtube.readonly`).
+- **YouTube Data API:** used only to upload videos to the owner's channel (scope `youtube.upload`)
+  and to read the channel name (scope `youtube.readonly`).
+- **TikTok Content Posting API:** used only to send the owner's videos to his own TikTok account
+  as drafts (scopes `user.info.basic`, `video.upload`).
 
 - [Privacy Policy](shorts-agent-privacy)
+- [Terms of Service](terms)
 
 Contact: alwaei1970@gmail.com
